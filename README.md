@@ -1,6 +1,7 @@
 # Projeto consiste na criação de uma plataforma de card onde o usuário pode cadastrar listar e excluir cards
 
-- Html
+- REACT JS
+- HTML
 - Styled-components
 - Javascript
 - Material ui
