@@ -1,4 +1,4 @@
-# Projeto consiste na criação de uma plataforma de card onde o usuário pode cadastrar listar e excluir cards
+# Projeto em React JS que consiste na criação de uma plataforma de card onde o usuário pode cadastrar listar e excluir cards
 
 - REACT JS
 - HTML
